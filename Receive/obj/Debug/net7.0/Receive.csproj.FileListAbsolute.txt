@@ -1,0 +1,17 @@
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\Receive.exe
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\Receive.deps.json
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\Receive.dll
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\Receive.pdb
+D:\DNSN-projectfolders\DNSN\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.dll
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\refint\Receive.dll
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.pdb
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+D:\DNSN-projectfolders\DNSN\Receive\obj\Debug\net7.0\ref\Receive.dll
